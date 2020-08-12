@@ -1,0 +1,55 @@
+body{
+  background-color: #2D3033;
+}
+a{
+   text-align:center;
+ font-family: monospace;
+  color: #B6BFCC;
+  font-size: 12pt; 
+  margin: 1.5em auto;
+  display:block;
+  text-decoration: none;
+}
+a:hover{
+  color:#426FAD;
+}
+h1{
+  text-align: center;
+  font-family: Monospace;
+  color: #B6BFCC;
+  font-size:45pt;
+  margin: 1em 0em 0em 0em;
+  }  
+h2{
+  text-align: center;
+  color:#426FAD;
+  font-family: Monospace;
+  font-size:20pt;
+  margin: 0.2em 0em 2em 0em;
+}
+#tribute-info{
+  text-aling: left;
+  font-family: sans-serif;
+  font-size: 14pt;
+  color: #B6BFCC;
+  margin: 5em 8em;
+}
+#img-div{
+   background-color: #2D3A4D;
+   padding: 1.5em;
+   margin: 0 10em;
+}
+#image{
+height: auto;
+max-width: 100%;
+display: block;
+ margin: 0 auto;
+}
+#img-caption{
+  font-family: monospace;
+  color: #B6BFCC;
+  font-size: 12pt;
+  text-align: center;
+  margin: 1.5em auto 0 auto;
+}
+
